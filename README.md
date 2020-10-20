@@ -1,4 +1,4 @@
-# Exerc-cio-16-POO
+# Exercicio-16-POO
 Após a totalização do valor da venda, o operador deve informar os dados de pagamento:
 
 Tipo do pagamento: Dinheiro, Cartão de crédito ou Cartão de débito
